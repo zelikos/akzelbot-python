@@ -1,3 +1,7 @@
+# Disclaimer
+
+This version of AkzelBot is no longer maintained, a rewrite is in progress over at [akzelbot](https://github.com/zelikos/akzelbot).
+
 # AkzelBot
 
 ![Screenshot](data/akzelbot_screenshot.png?raw=true)
